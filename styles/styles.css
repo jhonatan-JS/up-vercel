@@ -1,0 +1,18 @@
+body {
+  background-color: aqua;
+}
+
+.containerIndex {
+  width: 30%;
+  margin: auto;
+  margin-top: 45px;
+}
+
+.containerForm {
+  max-width: 600px;
+  margin: auto;
+  margin-top: 4%;
+
+  border: 1px solid;
+  padding: 8px;
+}

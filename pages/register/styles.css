@@ -1,0 +1,8 @@
+.containerForm {
+  max-width: 900px;
+  margin-top: 45px;
+}
+
+.enviar:hover {
+  background-color: blueviolet !important;
+}

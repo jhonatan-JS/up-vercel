@@ -1,0 +1,16 @@
+.containerImg {
+  margin: auto;
+}
+
+.containerImg img {
+  width: 70%;
+}
+
+.containerImg a {
+  text-decoration: none;
+}
+
+.iconSocial {
+  width: 35px !important;
+  margin-right: 10px;
+}

@@ -1,0 +1,32 @@
+.containerText {
+  max-width: 900px;
+  margin : 36px auto;
+}
+
+.containerText a {
+  text-decoration: none;
+}
+
+#colorSocial {
+  color: coral;
+}
+
+.containerFrame {
+  margin-top: 45px;
+  text-align: center;
+}
+
+.containerMaps {
+  width: 100%;
+  margin-top: 45px;
+  display: flex;
+  justify-content: center;
+}
+
+.containerIcons {
+  max-width: 150px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
